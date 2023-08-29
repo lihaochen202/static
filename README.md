@@ -1,0 +1,1 @@
+# Host for static files
